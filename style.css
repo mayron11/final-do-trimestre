@@ -1,7 +1,38 @@
-body {background-color: green;}
-h2{
-color: black;}
-
-#min2 {width: 50%;
+body {background-color: coral;
 }
+h1{text-align: center;
+    border-style: inset;
+    color: black;
+    border-width: 15px;
+}
+    #mine{
+    margin-right: 93%;
+border-style:hidden}
+h2{text-align: center;
+border-style: double;
+color: black;
+border-width: 25px;   
+}
+    #mine2{ margin-left: 20%;}
+h3{text-align: center;
+border-style: dashed;
+color: black;   
+border-width: 15px;
+}
+h4{text-align: center;
+border-style: groove;
+color: black;   
+border-width: 15px;
+}
+#mine3{ margin-left: 3%;
+width: 90%;}
+h4{text-align: center;
+border-style: double;
+color: black;
+border-width: 15px;
+
+}
+#mine4{ margin-left: 1%;
+border-style: outset;
+border-width: 15px;}
 
